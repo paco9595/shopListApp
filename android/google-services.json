@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073473188177",
+    "project_id": "shoplist-de4ca",
+    "storage_bucket": "shoplist-de4ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073473188177:android:2ceefdab1a36e73258a370",
+        "android_client_info": {
+          "package_name": "com.shoplistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073473188177-v380run74f4vjko7e9s6b3qroofffgoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTKBIu1aVjkX3Vj5K3zQd7aOiMKsBukaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073473188177-v380run74f4vjko7e9s6b3qroofffgoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
